@@ -102,3 +102,11 @@ Through this project, I gained a deeper understanding of:
 - 📊 Variance maximization principle
 - 🧮 Eigen decomposition process
 - 📉 Dimensionality reduction techniques in machine learning
+
+---
+
+# 👨‍💻 Author
+
+**Sharif Abusad**
+
+If you found this project useful, feel free to ⭐ the repository.
